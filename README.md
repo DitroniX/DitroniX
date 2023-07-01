@@ -2,6 +2,7 @@
 
 Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Projects](https://github.com/DitroniX?tab=repositories), Documentation and Code examples.
 
+**Supporting Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
 ![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/DitroniX.net%20IoT%20Banner%202.jpg?raw=true)
 
