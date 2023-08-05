@@ -4,11 +4,11 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Supporting Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/DitroniX.net%20IoT%20Banner%202.jpg?raw=true)
+![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20IoT%20Banner%202.jpg?raw=true)
 
 **Power Energy Monitor Boards SDK Overview**
 
-![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/08/DitroniX.net-Power-Energy-Monitor-Boards-SDK-Overview-scaled.jpg?raw=true)
+![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20Power%20Energy%20Monitor%20Boards%20SDK%20Overview.jpg?raw=true)
 
 
 ## **Further Information**
