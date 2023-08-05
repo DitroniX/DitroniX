@@ -6,6 +6,10 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 ![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/DitroniX.net%20IoT%20Banner%202.jpg?raw=true)
 
+**Power Energy Monitor Boards SDK Overview**
+
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/08/DitroniX.net-Power-Energy-Monitor-Boards-SDK-Overview-scaled.jpg?raw=true)
+
 
 ## **Further Information**
 
