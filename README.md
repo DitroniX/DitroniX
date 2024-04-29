@@ -14,6 +14,9 @@ IBEM - IoT Battery Energy Monitor Board SDK Overview
 GTEM IPEC IPEM - Mains Power Energy Monitor and Controller Boards SDK Overview
 ![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20Power%20Energy%20Monitor%20Boards%20SDK%20Overview.jpg?raw=true)
 
+## **Purchase**
+
+Our SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/sch/i.html?LH_TitleDesc=1&LH_BIN=1&LH_ItemCondition=1000&_fss=1&_saslop=1&_sasl=ditronixuk&LH_SpecificSeller=1&_dmd=2&_ipg=240) and [Amazon](https://www.amazon.co.uk/s?k=ditronix)
 
 ## **Further Information**
 
