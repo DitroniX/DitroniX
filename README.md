@@ -8,6 +8,8 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Power Energy Monitor Boards SDK Overview**
 
+![Display-Type-B](https://github.com/DitroniX/IBEM-IoT-Battery-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20IBEM%20-%20IoT%20Battery%20Energy%20Monitor%20Board%20SDK%20Overview.jpg?raw=true)
+
 ![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20Power%20Energy%20Monitor%20Boards%20SDK%20Overview.jpg?raw=true)
 
 
