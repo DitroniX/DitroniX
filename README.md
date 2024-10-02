@@ -4,7 +4,10 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Supporting Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20IoT%20Banner%202.jpg?raw=true)
+New CO2 Air Quality and Compact Weather Monitor SDK
+![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20AQIX%20Air%20Quality%20CO2%20%20and%20CWX%20Weather%20Monitors%20Overview.png?raw=true)
+
+![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20IoT%20Banner%203.jpg?raw=true)
 
 **Power Energy Monitor Boards SDK Overview**
 
