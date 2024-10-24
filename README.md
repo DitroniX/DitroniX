@@ -19,6 +19,8 @@ GTEM IPEC IPEM - Mains Power Energy Monitor and Controller Boards SDK Overview
 
 ## **Purchase**
 
+![Display-Type-B](https://raw.githubusercontent.com/DitroniX/DitroniX/main/Files/DitroniX.net%20STEM%20IoT%20eBay.jpg?raw=true)
+
 Our SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/sch/i.html?LH_TitleDesc=1&LH_BIN=1&LH_ItemCondition=1000&_fss=1&_saslop=1&_sasl=ditronixuk&LH_SpecificSeller=1&_dmd=2&_ipg=240) and [Amazon](https://www.amazon.co.uk/s?k=ditronix)
 
 ## **Further Information**
