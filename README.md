@@ -11,6 +11,9 @@ New CO2 Air Quality and Compact Weather Monitor SDK
 
 **Power Energy Monitor Boards SDK Overview**
 
+STEM Energy Monitors SDK Board Options
+![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20STEM%20Energy%20Monitors%20SDK%20Board%20Options.jpg)
+
 IBEM - IoT Battery Energy Monitor Board SDK Overview
 ![Display-Type-B](https://github.com/DitroniX/IBEM-IoT-Battery-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20IBEM%20-%20IoT%20Battery%20Energy%20Monitor%20Board%20SDK%20Overview.jpg?raw=true)
 
