@@ -4,7 +4,10 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-New CO2 Air Quality and Compact Weather Monitor SDK
+IPEM Raspberry Pi PiHat ATM90E32 ATM90E36 IoT Power Energy Monitor SDK 
+![IPEM PiHat - Beta Overview](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20IPEM%20Raspberry%20Pi%20PiHat%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png)
+
+CO2 Air Quality and Compact Weather Monitor SDK
 ![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20AQIX%20Air%20Quality%20CO2%20%20and%20CWX%20Weather%20Monitors%20Overview.png?raw=true)
 
 ![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20IoT%20Banner%203.jpg?raw=true)
