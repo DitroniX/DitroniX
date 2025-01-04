@@ -4,6 +4,9 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
+ESPuno Pi - Pre-Releease Overview SDK 
+![ESPuno Pi - Pre-Releease Overview](https://github.com/DitroniX/DitroniX/blob/main/Files/ESPuno%20Pi%20-Block%20Diagram%20-%20PreRelease%20Information.jpg)
+
 IPEM Raspberry Pi PiHat ATM90E32 ATM90E36 IoT Power Energy Monitor SDK 
 ![IPEM PiHat - Beta Overview](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20IPEM%20Raspberry%20Pi%20PiHat%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png)
 
