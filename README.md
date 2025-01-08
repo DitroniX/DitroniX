@@ -4,6 +4,10 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
+[KickStarter](https://www.kickstarter.com/projects/ditronix/ipem-raspberry-pihat-iot-atm90-mains-power-energy-monitor?ref=3vw3ge)
+![Support Us on KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png)
+
+
 ESPuno Pi - Pre-Releease Overview SDK 
 ![ESPuno Pi - Pre-Releease Overview](https://github.com/DitroniX/DitroniX/blob/main/Files/ESPuno%20Pi%20-Block%20Diagram%20-%20PreRelease%20Information.jpg)
 
