@@ -7,8 +7,10 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
+ESPuno Pi Zero - Pre-Releease Overview SDK (Q1 2025)
+![enter image description here](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V/blob/main/Datasheets%20and%20Information/ditronix.net%20ESPuno%20Pi%20Zero%20-%20ESP32-C6%20-%20Preview%202502.png)
 
-ESPuno Pi - Pre-Releease Overview SDK 
+ESPuno Pi - Pre-Releease Overview SDK (Early Q2 2025)
 ![ESPuno Pi - Pre-Releease Overview](https://github.com/DitroniX/DitroniX/blob/main/Files/ESPuno%20Pi%20-Block%20Diagram%20-%20PreRelease%20Information.jpg)
 
 IPEM Raspberry Pi PiHat ATM90E32 ATM90E36 IoT Power Energy Monitor SDK 
