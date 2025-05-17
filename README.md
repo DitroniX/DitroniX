@@ -6,13 +6,13 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
-PGEZ PCA9671 GPIO Expander Zero - Pre-Release Overview SDK (March 2025) - Availability April 2025
+PGEZ PCA9671 GPIO Expander Zero
 [![PGEZ PCA9671 GPIO Expander Zero](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20Overview.png 'PGEZ PCA9671 GPIO Expander Zero')](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero)
 
-ESPuno Pi Zero - Pre-Release Overview SDK (Q1 2025) - Launching KickStarter April 2025
+ESPuno Pi Zero SDK - As seen on KickStarter
 [![ESPuno Pi Zero](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V/blob/main/Datasheets%20and%20Information/ESPuno%20Pi%20Zero%20-%20Information%20Overview.png 'ESPuno Pi Zero')](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V)
 
-IPEM Raspberry Pi PiHat ATM90E32 ATM90E36 IoT Power Energy Monitor SDK (Launched)
+IPEM Raspberry Pi PiHat ATM90E32 ATM90E36 IoT Power Energy Monitor SDK  - As seen on KickStarter
 [![IPEM PiHat - Beta Overview](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20IPEM%20Raspberry%20Pi%20PiHat%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png 'IPEM PiHat - Beta Overview')](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor)
 
 [![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20IoT%20Banner%203.jpg?raw=true ' Energy Monitors')](https://github.com/DitroniX)
