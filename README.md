@@ -9,9 +9,9 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 
-ESPKnack, LoRa, Isolated I/Os, RS485, 5-60V, 4-24mA, Relays, DIN SDK
+ESPKnack, LoRa, Isolated I/Os, RS485, 5-60V, 4-20mA, Relays, DIN SDK
 
-[![ESPKnack Preview](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-24mA-Relays-DIN/blob/main/Datasheets%20and%20Information/ESPKnack%20-%20Features.png?raw=true)](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-24mA-Relays-DIN)
+[![ESPKnack Preview](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-24mA-Relays-DIN/blob/main/Datasheets%20and%20Information/ESPKnack%20-%20Features.png?raw=true)](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN)
 
 ESPRanger - LoRa GNSS-GPS IMU RS485 5-60V
 
