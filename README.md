@@ -9,6 +9,10 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 
+AQIL, ESP32-C6 (2.4GHz), SX1262, LoRa Air Quality Monitor IoT Weather Station
+
+[![AQIL Preview](https://github.com/DitroniX/AQIL-ESP32-C6-SX1262-LoRa-Air-Quality-Monitor-IoT-Weather-Station/raw/main/Datasheets%20and%20Information/AQIL%20-%20Features.png?raw=true)](https://github.com/DitroniX/AQIL-ESP32-C6-SX1262-LoRa-Air-Quality-Monitor-IoT-Weather-Station)
+
 ESPKnack, LoRa, Isolated I/Os, RS485, 5-60V, 4-20mA, Relays, DIN SDK
 
 [![ESPKnack Preview](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN/blob/main/Datasheets%20and%20Information/ESPKnack%20-%20Feature%2016-9.png?raw=true)](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN)
