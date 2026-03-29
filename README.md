@@ -10,6 +10,10 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 # [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
+IPEM Plus, ESP32-C5 | LoRa | IoT Smart Mains Power Energy Monitor
+
+[![IPEM Plus Preview](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20Plus%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor)
+
 
 AQIL, ESP32-C6 (2.4GHz), SX1262, LoRa Air Quality Monitor IoT Weather Station
 
