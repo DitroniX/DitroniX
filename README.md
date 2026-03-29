@@ -43,8 +43,6 @@ ESPuno Pi Zero SDK - As seen on KickStarter
 IPEM Raspberry Pi PiHat ATM90E32 ATM90E36 IoT Power Energy Monitor SDK  - As seen on KickStarter
 [![IPEM PiHat - Beta Overview](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20IPEM%20Raspberry%20Pi%20PiHat%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png 'IPEM PiHat - Beta Overview')](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor)
 
-[![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20IoT%20Banner%203.jpg?raw=true ' Energy Monitors')](https://github.com/DitroniX)
-
 
 ## **Purchase**
 [![Display-Type-B](https://raw.githubusercontent.com/DitroniX/DitroniX/main/Files/DitroniX.net%20STEM%20IoT%20eBay.jpg?raw=true)](https://www.ebay.co.uk/usr/ditronixuk)
