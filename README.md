@@ -34,9 +34,6 @@ ESPRanger - LoRa GNSS-GPS IMU RS485 5-60V
 EPEM - Ethernet Power Energy Monitor
 [![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20Preview.png?raw=true)](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor)
 
-PGEZ PCA9671 GPIO Expander Zero
-[![PGEZ PCA9671 GPIO Expander Zero](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20Overview.png 'PGEZ PCA9671 GPIO Expander Zero')](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero)
-
 ESPuno Pi Zero SDK - As seen on KickStarter
 [![ESPuno Pi Zero](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V/blob/main/Datasheets%20and%20Information/ESPuno%20Pi%20Zero%20-%20Information%20Overview.png 'ESPuno Pi Zero')](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V)
 
