@@ -10,6 +10,10 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 # [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
+IPEM Plus, ESP32-C5 | LoRa | IoT Smart Mains Power Energy Monitor
+
+[![IPEM Plus Preview](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20Plus%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor)
+
 
 AQIL, ESP32-C6 (2.4GHz), SX1262, LoRa Air Quality Monitor IoT Weather Station
 
@@ -30,30 +34,12 @@ ESPRanger - LoRa GNSS-GPS IMU RS485 5-60V
 EPEM - Ethernet Power Energy Monitor
 [![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20Preview.png?raw=true)](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor)
 
-PGEZ PCA9671 GPIO Expander Zero
-[![PGEZ PCA9671 GPIO Expander Zero](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero/blob/main/Datasheets%20and%20Information/PGEZ%20PCA9671%20GPIO%20Expander%20Zero%20Overview.png 'PGEZ PCA9671 GPIO Expander Zero')](https://github.com/DitroniX/PGEZ-PCA9671-GPIO-Expander-Zero)
-
 ESPuno Pi Zero SDK - As seen on KickStarter
 [![ESPuno Pi Zero](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V/blob/main/Datasheets%20and%20Information/ESPuno%20Pi%20Zero%20-%20Information%20Overview.png 'ESPuno Pi Zero')](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V)
 
 IPEM Raspberry Pi PiHat ATM90E32 ATM90E36 IoT Power Energy Monitor SDK  - As seen on KickStarter
 [![IPEM PiHat - Beta Overview](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20IPEM%20Raspberry%20Pi%20PiHat%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png 'IPEM PiHat - Beta Overview')](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor)
 
-[![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20IoT%20Banner%203.jpg?raw=true ' Energy Monitors')](https://github.com/DitroniX)
-
-**Power Energy Monitor Boards SDK Overview**
-
-STEM Energy Monitors SDK Board Options
-[![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20STEM%20Energy%20Monitors%20SDK%20Board%20Options.jpg ' Energy Monitors')](https://github.com/DitroniX)
-
-IBEM - IoT Battery Energy Monitor Board SDK Overview
-[![Display-Type-B](https://github.com/DitroniX/IBEM-IoT-Battery-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20IBEM%20-%20IoT%20Battery%20Energy%20Monitor%20Board%20SDK%20Overview.jpg?raw=true 'IBEM ESP32C3 IoT Battery Energy Monitor SDK Board')](https://github.com/DitroniX/IBEM-IoT-Battery-Energy-Monitor)
-
-GTEM IPEC IPEM - Mains Power Energy Monitor and Controller Boards SDK Overview
-[![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20Power%20Energy%20Monitor%20Boards%20SDK%20Overview.jpg?raw=true ' Energy Monitors')](https://github.com/DitroniX))
-
-**CO2 Air Quality and Compact Weather Monitor SDK**
-[![Display-Type-B](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX.net%20AQIX%20Air%20Quality%20CO2%20%20and%20CWX%20Weather%20Monitors%20Overview.png?raw=true 'Weather Monitors SDK Boards')](https://github.com/DitroniX)
 
 ## **Purchase**
 [![Display-Type-B](https://raw.githubusercontent.com/DitroniX/DitroniX/main/Files/DitroniX.net%20STEM%20IoT%20eBay.jpg?raw=true)](https://www.ebay.co.uk/usr/ditronixuk)
