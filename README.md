@@ -34,7 +34,8 @@ ESPRanger - LoRa GNSS-GPS IMU RS485 5-60V
 EPEM - Ethernet Power Energy Monitor
 [![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20Preview.png?raw=true)](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor)
 
-ESPuno Pi Zero SDK - As seen on KickStarter
+[![IPEM PiHat for Raspberry PI - Power Energy Monitor Preview](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20PiHat%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor)
+
 [![ESPuno Pi Zero](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V/blob/main/Datasheets%20and%20Information/ESPuno%20Pi%20Zero%20-%20Information%20Overview.png 'ESPuno Pi Zero')](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V)
 
 IPEM Raspberry Pi PiHat ATM90E32 ATM90E36 IoT Power Energy Monitor SDK  - As seen on KickStarter
