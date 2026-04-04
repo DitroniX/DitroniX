@@ -10,6 +10,12 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 # [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
+
+WREN | ESP32-C5 Recliner Linear Motor Controller | IoT Home Automation
+
+[![WREN Preview](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Overview.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation)
+
+
 IPEM Plus, ESP32-C5 | LoRa | IoT Smart Mains Power Energy Monitor
 
 [![IPEM Plus Preview](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20Plus%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor)
