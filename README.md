@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Repositories](https://github.com/DitroniX?tab=repositories), Documentation and Code examples.
+Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Repositories]([https://github.com/DitroniX?tab=repositories](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)), Documentation and Code examples.
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
