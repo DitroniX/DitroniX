@@ -10,6 +10,15 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 # [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
+## Purchase
+
+Our STEM SDK boards and accessories are available from our online shop and on eBay
+
+- Via [DitroniX.net Shop](https://ditronix.net/shop/)
+
+- Via [eBay Store](https://www.ebay.co.uk/usr/ditronixuk)
+
+## Latest Boards and Kits
 
 WREN | ESP32-C5 Recliner Linear Motor Controller | IoT Home Automation
 
