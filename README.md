@@ -18,6 +18,11 @@ Our STEM SDK boards and accessories are available from our online shop and on eB
 
 - Via [eBay Store](https://www.ebay.co.uk/usr/ditronixuk)
 
+## Full Repository List
+
+To view the full Repository List, [Click Here](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
+
+
 ## Latest Boards and Kits
 
 WREN | ESP32-C5 Recliner Linear Motor Controller | IoT Home Automation
