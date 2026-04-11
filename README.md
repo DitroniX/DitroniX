@@ -14,13 +14,15 @@ Our STEM SDK boards and accessories are available from our online shop and on eB
 
 - Via [DitroniX.net Shop](https://ditronix.net/shop/)
 
-- Via [eBay Store](https://www.ebay.co.uk/usr/ditronixuk)
+- Via [DitroniX eBay Store](https://www.ebay.co.uk/usr/ditronixuk)
+
+- Via [DitroniX on Kickstarter](https://www.kickstarter.com/profile/ditronix/created)
 
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 ## [Full Repository List](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
 
-To view the full Repository List, [Click Here](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
+To view the full Repository Project and Boards List, [Click Here](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
 
 
 ## Latest Boards and Kits
