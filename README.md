@@ -6,7 +6,7 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-# [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
+## [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
 ## Purchase
 
@@ -18,7 +18,7 @@ Our STEM SDK boards and accessories are available from our online shop and on eB
 
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
-## Full Repository List
+## [Full Repository List](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
 
 To view the full Repository List, [Click Here](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
 
