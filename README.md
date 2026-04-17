@@ -18,6 +18,9 @@ Our STEM SDK boards and accessories are available from our online shop and on eB
 
 - Via [DitroniX on Kickstarter](https://www.kickstarter.com/profile/ditronix/created)
 
+- Via [eMailing support](mailto:support@ditronix.net), for specfic support or sales needs.
+
+
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 ## [Full Repository List](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
