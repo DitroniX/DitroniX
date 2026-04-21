@@ -30,9 +30,15 @@ To view the full Repository Project and Boards List, [Click Here](https://github
 
 ## Latest Boards and Kits
 
-IPEM NBIoT | ESP32C5 ATM90E36 SIM7000G GPRS IoT Mains Power Energy Monitor
 
-[![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor)
+IPEM SIX | ESP32C5 ATM90E32 IoT Mains Power Energy Monitor | Six Current Clamp Inputs
+
+[![IPEM SIX Preview](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20SIX%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor)
+
+
+IPEM NB-IoT | ESP32C5 ATM90E36 SIM7000G GPRS IoT Mains Power Energy Monitor
+
+[![IPEM NB-IoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor)
 
 
 IPEM Plus, ESP32-C5 | LoRa | IoT Smart Mains Power Energy Monitor
