@@ -45,6 +45,9 @@ IPEM Plus, ESP32-C5 | LoRa | IoT Smart Mains Power Energy Monitor
 
 [![IPEM Plus Preview](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20Plus%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor)
 
+ESPKnack, LoRa, Isolated I/Os, RS485, 5-60V, 4-20mA, Relays, DIN SDK
+
+[![ESPKnack Preview](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN/blob/main/Datasheets%20and%20Information/ESPKnack%20-%20Feature%2016-9.png?raw=true)](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN)
 
 Dislay User Panel | I2C SPI MicroSD
 
@@ -63,9 +66,8 @@ AQIX, ESP32-C6 (2.4GHz), Air Quality Monitor IoT Weather Station
 
 [![AQIX Preview](https://github.com/DitroniX/AQIX-Air-Quality-Monitor-IoT-Weather-Station/blob/main/Datasheets%20and%20Information/AQIX%20Features.png?raw=true)](https://github.com/DitroniX/AQIX-Air-Quality-Monitor-IoT-Weather-Station)
 
-ESPKnack, LoRa, Isolated I/Os, RS485, 5-60V, 4-20mA, Relays, DIN SDK
 
-[![ESPKnack Preview](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN/blob/main/Datasheets%20and%20Information/ESPKnack%20-%20Feature%2016-9.png?raw=true)](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN)
+
 
 ESPRanger - LoRa GNSS-GPS IMU RS485 5-60V
 
