@@ -30,11 +30,13 @@ To view the full Repository Project and Boards List, [Click Here](https://github
 
 ## Latest Boards and Kits
 
+ESPKite| ESP32-C76 | LoRa | SX1262 | RS485 | 5-60V | Relay | DIN SDK
+
+[![ESPKite Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKIte%20-%20Feature.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay)
 
 IPEM SIX | ESP32C5 ATM90E32 IoT Mains Power Energy Monitor | Six Current Clamp Inputs
 
 [![IPEM SIX Preview](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20SIX%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor)
-
 
 IPEM NB-IoT | ESP32C5 ATM90E36 SIM7070G GPRS IoT Mains Power Energy Monitor
 
