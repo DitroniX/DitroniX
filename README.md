@@ -30,7 +30,7 @@ To view the full Repository Project and Boards List, [Click Here](https://github
 
 ## Latest Boards and Kits
 
-ESPKite| ESP32-C6 | LoRa 868MHz | SX1262 | LoRa 433MHz | SX1268 | RS485 | 5-60V | Relay | DMX | DMX512 | DIN SDK
+ESPKite | ESP32-C6 | LoRa 868MHz | SX1262 | LoRa 433MHz | SX1268 | RS485 | 5-60V | Relay | DMX | DMX512 | DIN SDK
 
 [![ESPKite Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20Family%20-%20Feature.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay)
 
