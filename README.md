@@ -30,21 +30,26 @@ To view the full Repository Project and Boards List, [Click Here](https://github
 
 ## Latest Boards and Kits
 
+ESPKite | ESP32-C6 | LoRa 868MHz | SX1262 | LoRa 433MHz | SX1268 | RS485 | 5-60V | Relay | DMX | DMX512 | DIN SDK
+
+[![ESPKite Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20Family%20-%20Feature.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay)
 
 IPEM SIX | ESP32C5 ATM90E32 IoT Mains Power Energy Monitor | Six Current Clamp Inputs
 
 [![IPEM SIX Preview](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20SIX%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor)
 
+IPEM NB-IoT | ESP32C5 ATM90E36 SIM7070G GPRS IoT Mains Power Energy Monitor
 
-IPEM NB-IoT | ESP32C5 ATM90E36 SIM7000G GPRS IoT Mains Power Energy Monitor
-
-[![IPEM NB-IoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7000G-GPRS-IoT-Mains-Power-Energy-Monitor)
+[![IPEM NB-IoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor)
 
 
 IPEM Plus, ESP32-C5 | LoRa | IoT Smart Mains Power Energy Monitor
 
 [![IPEM Plus Preview](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20Plus%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor)
 
+ESPKnack, LoRa, Isolated I/Os, RS485, 5-60V, 4-20mA, Relays, DIN SDK
+
+[![ESPKnack Preview](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN/blob/main/Datasheets%20and%20Information/ESPKnack%20-%20Feature%2016-9.png?raw=true)](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN)
 
 Dislay User Panel | I2C SPI MicroSD
 
@@ -52,7 +57,7 @@ Dislay User Panel | I2C SPI MicroSD
 
 WREN | ESP32-C5 Recliner Linear Motor Controller | IoT Home Automation
 
-[![WREN Preview](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Overview.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation)
+[![WREN Preview](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation/blob/main/Datasheets%20and%20Information/WREN%20-%20Board.png?raw=true)](https://github.com/DitroniX/WREN-Recliner-Linear-Motor-Controller-IoT-Home-Automation)
 
 
 AQIL, ESP32-C6 (2.4GHz), SX1262, LoRa Air Quality Monitor IoT Weather Station
@@ -63,9 +68,8 @@ AQIX, ESP32-C6 (2.4GHz), Air Quality Monitor IoT Weather Station
 
 [![AQIX Preview](https://github.com/DitroniX/AQIX-Air-Quality-Monitor-IoT-Weather-Station/blob/main/Datasheets%20and%20Information/AQIX%20Features.png?raw=true)](https://github.com/DitroniX/AQIX-Air-Quality-Monitor-IoT-Weather-Station)
 
-ESPKnack, LoRa, Isolated I/Os, RS485, 5-60V, 4-20mA, Relays, DIN SDK
 
-[![ESPKnack Preview](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN/blob/main/Datasheets%20and%20Information/ESPKnack%20-%20Feature%2016-9.png?raw=true)](https://github.com/DitroniX/ESPKnack-LoRa-Isolated-I-Os-RS485-5-60V-4-20mA-Relays-DIN)
+
 
 ESPRanger - LoRa GNSS-GPS IMU RS485 5-60V
 
