@@ -27,6 +27,8 @@ Our STEM SDK boards and accessories are available from our online shop and on eB
 
 To view the full Repository Project and Boards List, [Click Here](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
 
+[![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/discussions)
+
 
 ## Latest Boards and Kits
 
