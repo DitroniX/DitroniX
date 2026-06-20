@@ -29,7 +29,7 @@ To view the full Repository Project and Boards List, [Click Here](https://github
 
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/discussions)
 
-[![STEM Buy Me A Coffee - Thank you!](https://github.com/DitroniX/DitroniX/blob/main/Files/BuyMeACoffee.png?raw=true)]([https://github.com/discussions](https://buymeacoffee.com/ditronix))
+[![STEM Buy Me A Coffee - Thank you!](https://github.com/DitroniX/DitroniX/blob/main/Files/BuyMeACoffee.png?raw=true)](https://buymeacoffee.com/ditronix)
 
 
 ## Latest Boards and Kits
