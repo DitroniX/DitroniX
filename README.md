@@ -32,9 +32,9 @@ To view the full Repository Project and Boards List, [Click Here](https://github
 
 ## Latest Boards and Kits
 
-ESPKite | ESP32-C6 | LoRa 868MHz | SX1262 | LoRa 433MHz | SX1268 | RS485 | 5-60V | Relay | DMX | DMX512 | DIN SDK
+IPEM S3-AI | ESP32-S3 | ATM90E36 | IoT | Ethernet | Mains Power Energy Monitor
 
-[![ESPKite Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20Family%20-%20Feature.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay)
+[![IPEM S3-AI Preview](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20S3-AI%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor)
 
 IPEM SIX | ESP32C5 ATM90E32 IoT Mains Power Energy Monitor | Six Current Clamp Inputs
 
@@ -44,10 +44,13 @@ IPEM NB-IoT | ESP32C5 ATM90E36 SIM7070G GPRS IoT Mains Power Energy Monitor
 
 [![IPEM NB-IoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor)
 
-
 IPEM Plus, ESP32-C5 | LoRa | IoT Smart Mains Power Energy Monitor
 
 [![IPEM Plus Preview](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20Plus%20-%20Overview.png?raw=true)](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor)
+
+ESPKite | ESP32-C6 | LoRa 868MHz | SX1262 | LoRa 433MHz | SX1268 | RS485 | 5-60V | Relay | DMX | DMX512 | DIN SDK
+
+[![ESPKite Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20Family%20-%20Feature.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay)
 
 ESPKnack, LoRa, Isolated I/Os, RS485, 5-60V, 4-20mA, Relays, DIN SDK
 
