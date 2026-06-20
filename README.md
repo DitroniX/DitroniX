@@ -31,8 +31,11 @@ To view the full Repository Project and Boards List, [Click Here](https://github
 
 [![STEM Buy Me A Coffee - Thank you!](https://github.com/DitroniX/DitroniX/blob/main/Files/BuyMeACoffee.png?raw=true)](https://buymeacoffee.com/ditronix)
 
+[![ESPHome - Home Assistant Integrations](https://github.com/DitroniX/DitroniX/blob/main/Files/Home%20Assistant%20-ESPHome%20Integration.png?raw=true)](https://github.com/DitroniX/Home-Assistant-Dev)
 
-## Latest Boards and Kits
+
+
+# Latest Boards and Kits
 
 IPEM S3-AI | ESP32-S3 | ATM90E36 | IoT | Ethernet | Mains Power Energy Monitor
 
