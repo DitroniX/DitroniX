@@ -70,7 +70,7 @@ This Espressif ESP23-C6 Mains Energy Monitor includes Ethernet (shared SPI port)
 | ✅    | ❌     | ✅   | ✅   | ✅    | ✅      |❌  |  ❌   |  ✅  |
 
 ###  **[IPEM PiHat](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor)**
-Building on the IPEM Mains Power Energy Monitor theme, this is aimed at Raspberry Pi users who would like to integrate monitoring on the Pi, using the ATM90E36A.  It comes in two flavours, IPEM PiHat and IPEM PiHat Lite.
+Building on the IPEM Mains Power Energy Monitor theme, this is aimed at Raspberry Pi users who would like to integrate monitoring on the Pi, using the ATM90E36A.  It comes in two flavours, IPEM PiHat and IPEM PiHat Lite.  The board can also be [stacked](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor/wiki/IPEM-PiHat-Stacking) to provide many inputs.
 
 
 
