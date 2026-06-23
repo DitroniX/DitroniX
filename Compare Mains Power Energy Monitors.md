@@ -10,7 +10,9 @@ Any questions or queries, please [contact](https://ditronix.net/contact/) me.
 
 All of the DitroniX Mains Energy Monitor boards integrate the Microchip [ATM90E32AS](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/ATM90E32-Block-Diagram) or [ATM90E36A](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/ATM90E36-Block-Diagram) to provide Accurate Polyphase Mains Monitoring and 0.1% active energy accuracy.
 
-Importantly all boards are designed to be low voltage only, as safety is important, and absolute minimum, to no, calibration required. Example code is provided in each repository and also in the [Home Assistant](https://github.com/DitroniX/Home-Assistant-Dev) area.
+Importantly all boards are designed to be low voltage only, as safety is important, and absolute minimum, to no, calibration required. 
+
+Example code is provided in each repository and also in the [Home Assistant](https://github.com/DitroniX/Home-Assistant-Dev) area.
 
 ### Supported
 
@@ -33,7 +35,7 @@ Importantly all boards are designed to be low voltage only, as safety is importa
 
 ### Quick Recommendations
 - **Best for most Homes/Small Businesses** — **IPEM SIX** (Excellent multi-circuit monitoring)
-- **Ethernet and Homes/Small Businesses** — **EPEM** (Uses shared SPI Port)
+- **Ethernet and Homes/Small Businesses** — **EPEM** (Uses shared SPI Port) **IPEM S3-AI*** (Uses dedicated SPI Port)
 - **Remote / Off-Grid** — **IPEM NB-IoT** (LPWA/NB-IoT/CAT-M/GNSS) **IPEM Plus** (LoRa/LoRaWAN/FSK)
 - **AI / Advanced Processing and Ethernet** — **IPEM S3-AI** (Uses dedicated SPI Port)
 - **Raspberry Pi users** — **IPEM PiHat** (Stackable)
