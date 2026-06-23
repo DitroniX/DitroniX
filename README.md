@@ -27,13 +27,11 @@ Our STEM SDK boards and accessories are available from our online shop and on eB
 
 To view the full Repository Project and Boards List, [Click Here](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
 
+[![ESPHome - Home Assistant Integrations](https://github.com/DitroniX/DitroniX/blob/main/Files/Home%20Assistant%20-ESPHome%20Integration.png?raw=true)](https://github.com/DitroniX/Home-Assistant-Dev)
+
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/discussions)
 
 [![STEM Buy Me A Coffee - Thank you!](https://github.com/DitroniX/DitroniX/blob/main/Files/BuyMeACoffee.png?raw=true)](https://buymeacoffee.com/ditronix)
-
-[![ESPHome - Home Assistant Integrations](https://github.com/DitroniX/DitroniX/blob/main/Files/Home%20Assistant%20-ESPHome%20Integration.png?raw=true)](https://github.com/DitroniX/Home-Assistant-Dev)
-
-
 
 # Latest Boards and Kits
 
