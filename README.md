@@ -6,7 +6,7 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-## [Compare DitroniX Mains Power IoT Energy Monitor Options - Click Here](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
+## [Compare DitroniX Mains Power IoT Energy Monitor Options - Click Here](https://github.com/DitroniX/DitroniX/blob/main/Compare%20Mains%20Power%20Energy%20Monitors.md)
 
 ## Purchase
 
