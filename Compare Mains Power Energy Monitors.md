@@ -23,6 +23,9 @@ Importantly all boards are designed to be low voltage only, as safety is importa
 |--|--|--|--|--|--|
 | ✅ | ✅ |✅ | ✅ | ✅ |✅ |
 
+ - Delta (Δ), 3-phase 3-wire, forms a closed loop without a neutral (3 x Current Inputs).
+ - Star (Y), 3-phase 4-wire, creates a central neutral point (4 x Current Inputs).   
+
 ### Suitable for Applications
 
 🏠 Home |🏭 Industrial |⚡ EV |☀ Solar |🌬 Wind |🚜 Agriculture |🎓 Education |🔋 Battery
