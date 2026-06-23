@@ -22,12 +22,12 @@ Example code is provided in each repository and also in the [Home Assistant](htt
 
 ### Phases
 
-| Single Phase | Single Phase<br>Multi Channel | Dual Phase | Split Phase | Three Phase<br>Delta Δ (3P3W) | Three Phase<br>Star Y (3P4W) |
+| Single Phase<br>(All Boards) | Single Phase<br>Multi Channel<br>(All Boards) | Dual Phase<br>(All Boards)| Split Phase<br>(All Boards) | Three Phase<br>Delta Δ (3P3W) | Three Phase<br>Star Y (3P4W) |
 |--------------|----------------------------|------------|-------------|----------------------------|---------------------------|
 | ✅           | ✅                         | ✅         | ✅          | ✅                         | ✅                        |
 
-- Delta (Δ), 3-phase 3-wire, forms a closed loop without a neutral (3 x Current Inputs).
-- Star (Y), 3-phase 4-wire, creates a central neutral point (4 x Current Inputs).   
+- Delta (Δ), 3-phase 3-wire, forms a closed loop without a neutral (3 x Current Inputs).  ATM90E32 or ATM90E36.
+- Star (Y), 3-phase 4-wire, creates a central neutral point (4 x Current Inputs).   Only ATM90E36.
 
 ### Suitable for Applications
 
