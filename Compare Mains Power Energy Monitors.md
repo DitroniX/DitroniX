@@ -6,9 +6,13 @@
 
 Any questions or queries, please [contact](https://ditronix.net/contact/) me.
 
-All of the DitroniX Mains Energy Monitor boards integrate the Microchip [ATM90E32](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/ATM90E32-Block-Diagram) or [ATM90E36](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/ATM90E36-Block-Diagram) to provide Accurate Polyphase Mains Monitoring.  Importantly with fully safety and absolute minimum, to no, calibration.
+## Prelude
 
-Summary of boards:
+All of the DitroniX Mains Energy Monitor boards integrate the Microchip [ATM90E32](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/ATM90E32-Block-Diagram) or [ATM90E36](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/ATM90E36-Block-Diagram) to provide Accurate Polyphase Mains Monitoring.  
+
+Importantly all boards are designed to be low voltage only, as safety is important, and absolute minimum, to no, calibration required.  Example code is provided in each repository and also in the [Home Assistant](https://github.com/DitroniX/Home-Assistant-Dev) area.
+
+## Summary of boards:
 
  - **[IPEM S3-AI](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor)** (August)
 	 - New to the IPEM family, this board offers an ESP32-S3 with ATM90E36, which is also ideal for AI LLM integration in analysing Mains Power Energy.  Ethernet is also included (using dedicated SPI port). The power of the S3 enables faster processing and calculations. RS485/DMX interface is included.  With Home Assistant / ESPHome Support.  
@@ -23,9 +27,9 @@ Summary of boards:
  - **[IPEM PiHat](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor)**
 	 - Building on the IPEM Mains Power Energy Monitor theme, this is aimed at Raspberry Pi users who would like to integrate monitoring on the Pi.  It comes in two flavours, IPEM PiHat and IPEM PiHat Lite.
 
-Detailed Feature Comparison Chart.
+## Detailed Feature Comparison Chart
 
 ![DitroniX Mains Power IoT Energy Monitor Comparison](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX%20Mains%20Power%20IoT%20Energy%20Monitor%20Comparison.jpg)
 
-PDF
+## PDF of Detailed Feature Comparison Chart
 [DitroniX Mains Power IoT Energy Monitor Comparison PDF](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX%20Mains%20Power%20IoT%20Energy%20Monitor%20Comparison.pdf)
