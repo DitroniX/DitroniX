@@ -14,8 +14,8 @@ Importantly all boards are designed to be low voltage only, as safety is importa
 
 ### Supported
 
-| ESPHome	 | ESP-IDF | Arduino		| Platform IO	 | MQTT	 | Pi |
-|--|--|--|--|--|--|--|
+| ESPHome	 | ESP-IDF | Arduino		| Platform IO	 | MQTT	 | Pi  | 
+|--|--|--|--|--|--|
 | ✓ | ✓ |✓  | ✓ |✓ |✓ |
 
 ### Phases
