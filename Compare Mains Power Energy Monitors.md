@@ -16,12 +16,12 @@ Importantly all boards are designed to be low voltage only, as safety is importa
 
 | ESPHome	 | ESP-IDF | Arduino		| Platform IO	 | MQTT	 | Pi  | 
 |--|--|--|--|--|--|
-| ✓ | ✓ |✓  | ✓ |✓ |✓ |
+| ✅ | ✅ |✅  | ✅ |✅|✅|
 
 ### Phases
 | Singe Phase	 |Singe Phase	Multi Channel | Dual Phase | Split Phase| Three Phase Delta (3P3W) | Three Phase Star (3P4W)  | 
 |--|--|--|--|--|--|
-| ✓ | ✓ |✓  | ✓ | ✓ |✓ |
+| ✅ | ✅ |✅  | ✅ | ✅ |✅ |
 
 
 ## Summary of boards:
