@@ -14,13 +14,13 @@ Importantly all boards are designed to be low voltage only, as safety is importa
 
 ### Supported
 
-| ESPHome | ESP-IDF | Arduino | Platform IO | MQTT | Raspberry Pi |
-|---------|---------|---------|-------------|------|--------------|
-| ✅      | ✅      | ✅      | ✅          | ✅   | ✅           |
+| ESPHome <br>Home Assistant | Espressif<br> ESP-IDF | Arduino | Platform IO | MQTT | Domoticz openHAB<br> Tasmota Etc. | Raspberry Pi<br>and other Flavours|
+|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| ✅      | ✅      | ✅      | ✅          | ✅   | ✅           | ✅           |
 
 ### Phases
 
-| Single Phase | Single Phase Multi Channel | Dual Phase | Split Phase | Three Phase Delta Δ (3P3W) | Three Phase Star Y (3P4W) |
+| Single Phase | Single Phase<br>Multi Channel | Dual Phase | Split Phase | Three Phase<br>Delta Δ (3P3W) | Three Phase<br>Star Y (3P4W) |
 |--------------|----------------------------|------------|-------------|----------------------------|---------------------------|
 | ✅           | ✅                         | ✅         | ✅          | ✅                         | ✅                        |
 
