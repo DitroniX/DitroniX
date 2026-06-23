@@ -41,8 +41,8 @@ Importantly all boards are designed to be low voltage only, as safety is importa
 
 ## Summary of boards:
 
-### **[IPEM S3-AI](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor)** (August)
-New to the IPEM family, this board offers an Espressif ESP32-S3 with ATM90E36A, which is also ideal for AI LLM integration in analysing Mains Power Energy. Ethernet is also included (using dedicated SPI port). The power of the S3 enables faster processing and calculations. RS485/Modbus/DMX interface is included. With Home Assistant / ESPHome Support. DIN Rail Option.
+### **[IPEM S3-AI](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor)** (August 2026)
+New to the IPEM family, this board offers an Espressif ESP32-S3 with ATM90E36A, which is also ideal for AI/Advanced processing integration in analysing detailed Mains Power Energy. Ethernet is also included (using dedicated SPI port). The power of the S3 enables faster processing and calculations. RS485/Modbus/DMX interface is included. With Home Assistant / ESPHome Support. DIN Rail Option.
 
 | Wi-Fi 2.4GHz | Wi-Fi 5GHz | ETH | BLE | Thread | Zigbee | LoRa | NB-IoT | RS485 |
 |--------------|------------|-----|-----|--------|--------|------|--------|-------|
