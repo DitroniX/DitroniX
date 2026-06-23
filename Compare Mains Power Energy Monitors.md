@@ -12,6 +12,18 @@ All of the DitroniX Mains Energy Monitor boards integrate the Microchip [ATM90E3
 
 Importantly all boards are designed to be low voltage only, as safety is important, and absolute minimum, to no, calibration required.  Example code is provided in each repository and also in the [Home Assistant](https://github.com/DitroniX/Home-Assistant-Dev) area.
 
+### Supported
+
+| ESPHome	 | ESP-IDF | Arduino		| Platform IO	 | MQTT	 | Pi |
+|--|--|--|--|--|--|--|
+| ✓ | ✓ |✓  | ✓ |✓ |✓ |
+
+### Phases
+| Singe Phase	 |Singe Phase	Multi Channel | Dual Phase | Split Phase| Three Phase Delta (3P3W) | Three Phase Star (3P4W)  | 
+|--|--|--|--|--|--|
+| ✓ | ✓ |✓  | ✓ | ✓ |✓ |
+
+
 ## Summary of boards:
 
  - **[IPEM S3-AI](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor)** (August)
