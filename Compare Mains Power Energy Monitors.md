@@ -19,9 +19,9 @@ Importantly all boards are designed to be low voltage only, as safety is importa
 | ✅ | ✅ |✅  | ✅ |✅|✅|
 
 ### Phases
-| Singe Phase	 |Singe Phase	Multi Channel | Dual Phase | Split Phase| Three Phase Delta (3P3W) | Three Phase Star (3P4W)  | 
+| Singe Phase	| Singe Phase	Multi Channel | Dual Phase | Split Phase | Three Phase Delta Δ (3P3W) | Three Phase Star Y (3P4W) | 
 |--|--|--|--|--|--|
-| ✅ | ✅ |✅  | ✅ | ✅ |✅ |
+| ✅ | ✅ |✅ | ✅ | ✅ |✅ |
 
 ### Suitable for Applications
 
