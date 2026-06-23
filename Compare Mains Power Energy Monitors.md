@@ -23,6 +23,9 @@ Importantly all boards are designed to be low voltage only, as safety is importa
 |--|--|--|--|--|--|
 | ✅ | ✅ |✅  | ✅ | ✅ |✅ |
 
+### Suitable for Applications
+
+🏠 Home |🏭 Industrial |⚡ EV |☀ Solar |🌬 Wind |🚜 Agriculture |🎓 Education |🔋 Battery
 
 ## Summary of boards:
 
