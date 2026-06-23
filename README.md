@@ -6,7 +6,7 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-## [Compare Mains Power IoT Energy Monitors](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
+## [Compare DitroniX Mains Power IoT Energy Monitor Options - Click Here](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
 ## Purchase
 
@@ -20,18 +20,15 @@ Our STEM SDK boards and accessories are available from our online shop and on eB
 
 - Via [eMailing support](mailto:support@ditronix.net?subject=DitroniX%20Enquiry%3A%20&body=This%20is%20an%20enquiry%20from%20the%20DitroniX%20GitHub%20Site.%0A%0A) for any specific support, or other sales requirements, or enquiries.
 
-
-[![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
-
-## [Full Repository List](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
-
-To view the full Repository Project and Boards List, [Click Here](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
+## [Full Repository List](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)   To view the full Repository Project and Boards List, [Click Here](https://github.com/DitroniX?tab=repositories&q=&type=&language=&sort=name)
 
 [![ESPHome - Home Assistant Integrations](https://github.com/DitroniX/DitroniX/blob/main/Files/Home%20Assistant%20-ESPHome%20Integration.png?raw=true)](https://github.com/DitroniX/Home-Assistant-Dev)
 
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/discussions)
 
 [![STEM Buy Me A Coffee - Thank you!](https://github.com/DitroniX/DitroniX/blob/main/Files/BuyMeACoffee.png?raw=true)](https://buymeacoffee.com/ditronix)
+
+[![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 # Latest Boards and Kits
 
