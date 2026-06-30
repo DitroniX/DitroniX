@@ -8,12 +8,18 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 [![Compare DitroniX Mains Power IoT Energy Monitor Options](https://github.com/DitroniX/DitroniX/blob/main/Files/Compare%20DitroniX%20Energy%20Monitors.png?raw=true)](https://github.com/DitroniX/DitroniX/blob/main/Compare%20Mains%20Power%20Energy%20Monitors.md)
 
+## NOTE NOTE  NOTE  NOTE  NOTE 
+
+28th June 2026 - My website is currently being revamped and moved to the Shopify platyform, which will both speed up and enhance the features.
+
+It is expected to be back online by end of 30th June.   Should you wish to place an order, or have any  questions, please contact me.  admin @ ditronix.net
+
 
 ## Purchase
 
 Our STEM SDK boards and accessories are available from our online shop and on eBay
 
-- Via [DitroniX.net Shop](https://ditronix.net/shop/)
+- Via [DitroniX.net Shop](https://ditronix.net/)
 
 - Via [DitroniX eBay Store](https://www.ebay.co.uk/usr/ditronixuk)
 
