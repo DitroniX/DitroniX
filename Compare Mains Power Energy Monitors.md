@@ -22,12 +22,12 @@ Example code is provided in each repository and also in the [Home Assistant](htt
 
 ### Phases
 
-| Single Phase | Single Phase<br>Multi Channel | Dual Phase | Split Phase | Three Phase<br>Delta Δ (3P3W) | Three Phase<br>Star Y (3P4W) |
+| Single Phase<br>(All Boards) | Single Phase<br>Multi Channel<br>(All Boards) | Dual Phase<br>(All Boards)| Split Phase<br>(All Boards) | Three Phase<br>Delta Δ (3P3W) | Three Phase<br>Star Y (3P4W) |
 |--------------|----------------------------|------------|-------------|----------------------------|---------------------------|
 | ✅           | ✅                         | ✅         | ✅          | ✅                         | ✅                        |
 
-- Delta (Δ), 3-phase 3-wire, forms a closed loop without a neutral (3 x Current Inputs).
-- Star (Y), 3-phase 4-wire, creates a central neutral point (4 x Current Inputs).   
+- Delta (Δ), 3-phase 3-wire, forms a closed loop without a neutral (3 x Current Inputs).  ATM90E32 or ATM90E36.
+- Star (Y), 3-phase 4-wire, creates a central neutral point (4 x Current Inputs).   Only ATM90E36.
 
 ### Suitable for Applications
 
@@ -72,20 +72,20 @@ Building on our reliable Espressif ESP32-C6 Mains Power Energy monitors, the on-
 | ✅           | ❌         | ❌  | ✅  | ✅     | ✅     | ✅   | ❌     | ✅    | ✅   | ✅   |
 
 ### **[EPEM E32](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor)** 
-This Espressif ESP32-C6 Mains Energy Monitor includes Ethernet (shared SPI port). ATM90E32AS. With Home Assistant / ESPHome Support. RS485/Modbus/DMX interface is included.
+This Espressif ESP32-C6 Mains Energy Monitor includes Ethernet (shared SPI port). ATM90E32AS. With Home Assistant / ESPHome Support. RS485/Modbus/DMX interface is included. Note: ESPHome does not currently support shared SPI.
 
 | Wi-Fi 2.4GHz | Wi-Fi 5GHz | ETH | BLE | Thread | Zigbee | LoRa | NB-IoT | RS485 | 3P3W | 3P4W |
 |--------------|------------|-----|-----|--------|--------|------|--------|-------|------|------|
 | ✅           | ❌         | ✅  | ✅  | ✅     | ✅     | ❌   | ❌     | ✅    | ✅   | ❌   |
 
 ### **[EPEM E36](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor)** 
-This Espressif ESP32-C6 Mains Energy Monitor includes Ethernet (shared SPI port). ATM90E36A. With Home Assistant / ESPHome Support. RS485/Modbus/DMX interface is included.
+This Espressif ESP32-C6 Mains Energy Monitor includes Ethernet (shared SPI port). ATM90E36A. With Home Assistant / ESPHome Support. RS485/Modbus/DMX interface is included. Note: Note: ESPHome does not currently support shared SPI.
 
 | Wi-Fi 2.4GHz | Wi-Fi 5GHz | ETH | BLE | Thread | Zigbee | LoRa | NB-IoT | RS485 | 3P3W | 3P4W |
 |--------------|------------|-----|-----|--------|--------|------|--------|-------|------|------|
 | ✅           | ❌         | ✅  | ✅  | ✅     | ✅     | ❌   | ❌     | ✅    | ✅   | ✅   |
 
-### **[IPEM PiHat](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor)**
+### **[IPEM PiHat and IPEM PiHat Lite](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor)**
 Building on the IPEM Mains Power Energy Monitor theme, this is aimed at Raspberry Pi users who would like to integrate monitoring on the Pi, using the ATM90E36A. It comes in two flavours, IPEM PiHat and IPEM PiHat Lite. The board can also be [stacked](https://github.com/DitroniX/IPEM-PiHat-IoT-Power-Energy-Monitor/wiki/IPEM-PiHat-Stacking) to provide many inputs.
 
 | Wi-Fi 2.4GHz | Wi-Fi 5GHz | ETH | BLE | Thread | Zigbee | LoRa | NB-IoT | RS485 | 3P3W | 3P4W |
