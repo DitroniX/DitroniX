@@ -10,7 +10,7 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 ## New DitroniX Website and Shop Online
 
-[![New DitroniX Website](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX%20Shop.png?raw=true)]([https://github.com/DitroniX/DitroniX/blob/main/Compare%20Mains%20Power%20Energy%20Monitors.md](https://ditronix.net/))
+[![New DitroniX Website](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX%20Shop.png?raw=true)](https://ditronix.net/)
 
 
 ## Purchase
