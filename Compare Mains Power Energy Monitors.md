@@ -31,7 +31,7 @@ Example code is provided in each repository and also in the [Home Assistant](htt
 
 ### Suitable for Applications
 
-🏠 Home |🏭 Industrial |⚡ EV |☀ Solar |🌬 Wind |🚜 Agriculture |🎓 Education |🔋 Battery
+🏠 Home | 🏭 Industrial | ⚡ EV | ☀ Solar | 🌬 Wind | ⚡ Off-Grid | 🚜 Agriculture | 🎓 Education | 🔋 Battery | ⚡ Stage/Productions
 
 ### Quick Recommendations
 - **Best for most Homes/Small Businesses** — **IPEM SIX** (Excellent multi-circuit monitoring)
