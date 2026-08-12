@@ -6,6 +6,21 @@
 
 Any questions or queries, please [contact](https://ditronix.net/contact/) me.
 
+## AC Monitoring
+All AC Mains is safely and galvanically isolated using a low voltage transformer. Examples are bell transformers.
+
+Supports AC Monitoring Around The [World](https://en.wikipedia.org/wiki/Mains_electricity_by_country)
+Europe and UK which typically is 230 V @ 50 Hz
+
+With ranges around 216 V to 253 V
+USA and Canada which typically is 120 V or 230 V @ 60 Hz
+
+With ranges around 114 V to 126 V
+Japan which typically is 100 V @ 50 Hz or 60 Hz
+
+Eastern Japan is 50 Hz, and Western Japan is 60 Hz
+World typically is 220V-240 V @ 50 Hz
+
 ## Prelude
 
 All of the DitroniX Mains Energy Monitor boards integrate the Microchip [ATM90E32AS](https://github.com/DitroniX/IPEM-SIX-ESP32C5-ATM90E32-IoT-Mains-Power-Energy-Monitor/wiki/ATM90E32-Block-Diagram) or [ATM90E36A](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/ATM90E36-Block-Diagram) to provide Accurate Polyphase Mains Monitoring and 0.1% active energy accuracy.
@@ -31,7 +46,7 @@ Example code is provided in each repository and also in the [Home Assistant](htt
 
 ### Suitable for Applications
 
-🏠 Home |🏭 Industrial |⚡ EV |☀ Solar |🌬 Wind |🚜 Agriculture |🎓 Education |🔋 Battery
+🏠 Home | 🏭 Industrial | ⚡ EV | ☀ Solar | 🌬 Wind | ⚡ Off-Grid | 🚜 Agriculture | 🎓 Education | 🔋 Battery | ⚡ Stage/Productions
 
 ### Quick Recommendations
 - **Best for most Homes/Small Businesses** — **IPEM SIX** (Excellent multi-circuit monitoring)
