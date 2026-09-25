@@ -12,6 +12,9 @@ Welcome to my **DitroniX GitHub Pages**, pertaining to the various  [Project Rep
 
 [![New DitroniX Website](https://github.com/DitroniX/DitroniX/blob/main/Files/DitroniX%20Shop.png?raw=true)](https://ditronix.net/)
 
+## General Discussions and Show n Tell your Projects
+
+[![General Discussions and Show n Tell your Projects](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20DIscussions%20General.png?raw=true)](https://github.com/DitroniX/DitroniX/discussions)
 
 ## Purchase
 

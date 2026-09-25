@@ -19,6 +19,7 @@ With ranges around 114 V to 126 V
 Japan which typically is 100 V @ 50 Hz or 60 Hz
 
 Eastern Japan is 50 Hz, and Western Japan is 60 Hz
+
 World typically is 220V-240 V @ 50 Hz
 
 ## Prelude
